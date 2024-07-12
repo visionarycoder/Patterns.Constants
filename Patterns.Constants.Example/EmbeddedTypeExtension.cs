@@ -1,4 +1,4 @@
-﻿namespace Example.Constants;
+﻿namespace Patterns.Constants.Example;
 
 public static class EmbeddedTypeExtension
 {

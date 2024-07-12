@@ -1,6 +1,6 @@
 ﻿using System.Reflection;
 
-namespace Example.Constants;
+namespace Patterns.Constants.Example;
 
 public static class ConstantToTypeCollection
 {

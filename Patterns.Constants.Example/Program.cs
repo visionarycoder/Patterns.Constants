@@ -1,4 +1,4 @@
-﻿using Example.Constants;
+﻿using Patterns.Constants.Example;
 
 Console.WriteLine($"Constant To Dictionary Example: ");
 
